@@ -116,5 +116,5 @@ if __name__ == '__main__':
         main(args[1], args[2], args[3])
     else:
         print('usage')
-    # ex log: python task3.py task3.log 2021-03-27T02:14:03 2021-03-27T02:14:04
+    # ex log: python task3.py task3.log 2021-03-27T18:11:48 2021-03-27T18:11:49
     # ex2 log v2: python task3.py task3.log 2021-03-27T16:47:50 2021-03-27T16:47:51
